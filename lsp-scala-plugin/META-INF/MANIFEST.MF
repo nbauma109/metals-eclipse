@@ -27,7 +27,7 @@ Bundle-Activator: com.idiomaticsoft.lsp.scala.ScalaLSPPlugin
 Bundle-Vendor: Idiomaticsoft S.R.L.
 Bundle-ActivationPolicy: lazy
 Bundle-ClassPath: .,
- target/lib/scala-library-2.12.8.jar,
+ target/lib/scala-library-2.12.19.jar,
  target/lib/coursier_2.12-1.1.0-M14-4.jar,
  target/lib/coursier-cache_2.12-1.1.0-M14-4.jar,
  target/lib/coursier-core_2.12-1.1.0-M14-4.jar,
