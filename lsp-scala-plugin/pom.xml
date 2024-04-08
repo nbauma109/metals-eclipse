@@ -70,8 +70,8 @@
 				    <compilerPlugins>
 				        <compilerPlugin>
 				            <groupId>org.scalameta</groupId>
-				            <artifactId>semanticdb-scalac_${scala.version}</artifactId>
-				            <version>4.3.12</version>
+				            <artifactId>semanticdb-scalac_2.12</artifactId>
+				            <version>${scalameta.version}</version>
 				        </compilerPlugin>
 				    </compilerPlugins>
             <scalaVersion>${scala.version}</scalaVersion>
