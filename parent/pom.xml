@@ -13,7 +13,7 @@
 
 	<properties>
                 <maven.compiler.source>17</maven.compiler.source>
-                <maven.compiler.target>17</maven.compiler.target>		<tycho-version>1.4.0</tycho-version>
+                <maven.compiler.target>17</maven.compiler.target>		<tycho-version>2.7.5</tycho-version>
 		<tycho-extras-version>${tycho-version}</tycho-extras-version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<tycho.scmUrl>scm:git:https://github.com/mundacho/scala-lsp-eclipse.git</tycho.scmUrl>
