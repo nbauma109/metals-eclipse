@@ -19,6 +19,7 @@
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<scala.version>2.12</scala.version>
+		<scala.patch.version>2.12.19</scala.patch.version>
 		<scalameta.version>4.9.3</scalameta.version>
 	</properties>
 
@@ -26,7 +27,7 @@
 		<dependency>
 			<groupId>org.scala-lang</groupId>
 			<artifactId>scala-library</artifactId>
-			<version>${scala.version}</version>
+			<version>${scala.patch.version}</version>
 		</dependency>
 		<dependency>
 			<groupId>io.get-coursier</groupId>
