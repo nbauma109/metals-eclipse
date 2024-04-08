@@ -3,7 +3,7 @@
 <target includeMode="feature" name="eclipse-scala-lsp">
 	<environment>
           <osgi.java.profile>JavaSE-17</osgi.java.profile>
-        </environment/>
+        </environment>
         <locations>
 		<location includeAllPlatforms="false" includeConfigurePhase="true" includeMode="planner" includeSource="true" type="InstallableUnit">
 			<unit id="a.jre.javase" version="0.0.0"/>
